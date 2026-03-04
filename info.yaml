@@ -36,7 +36,7 @@ pinout:
   uo[7]: "OUT7"
 
   # Bidirectional pins
-  uio[0]: "Output1"
+  uio[0]: "and6"
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
