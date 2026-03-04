@@ -6,7 +6,7 @@ project:
   discord:      ""
   description:  "test logic gates and a clock divider"
   language:     "Wokwi"
-  clock
+  clock:        0
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
