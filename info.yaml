@@ -16,14 +16,14 @@ project: creating GDS
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "input IN0"
-  ui[1]: "input IN1"
-  ui[2]: "input IN2"
-  ui[3]: "input IN3"
-  ui[4]: "input IN4"
-  ui[5]: "input IN5"
-  ui[6]: "input IN6"
-  ui[7]: "input IN7"
+  ui[0]: "IN0"
+  ui[1]: "IN1"
+  ui[2]: "IN2"
+  ui[3]: "IN3"
+  ui[4]: "IN4"
+  ui[5]: "IN5"
+  ui[6]: "IN6"
+  ui[7]: "IN7"
 
   # Outputs
   uo[0]: "OUT0"
